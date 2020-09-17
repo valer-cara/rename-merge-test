@@ -6,7 +6,9 @@ Doc?
 
 All good here! Yes please!
 function() {
-
+  int x = 12;
+  int y = 3
+  return x + y;
 }
 
 
