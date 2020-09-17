@@ -8,6 +8,7 @@ All good here! Yes please!
 function() {
   int x = 12;
   int y = 3
+  int z = 145; // addded while rename
   return x + y;
 }
 
@@ -24,3 +25,4 @@ Hi there this is a function() {
 }
 
 And here we are again, all good it seems :D
+Yes, still some goodness
