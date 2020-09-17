@@ -1,0 +1,18 @@
+HJello
+World
+What's Up
+Doc?
+
+
+
+
+Hi there this is a function() {
+  int i = 0;
+  char b = "x";
+
+  if i > b {
+    log("no such file")
+  }
+
+  return i + b;
+}
