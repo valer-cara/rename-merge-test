@@ -6,7 +6,7 @@ Doc?
 
 All good here! Yes please!
 function() {
-
+  return 123;
 }
 
 
